@@ -19,7 +19,7 @@ suite("order-test-suite") in [
   ],
   
  it("Creates an order") in[
-    POST `https://orders-app-enw60f.5sc6y6-1.usa-e2.cloudhub.io/orders` with {
+    POST `https://orders-app-55b565.5sc6y6-4.usa-e2.cloudhub.io/orders` with {
       "headers": {
       	"Accept" : "application/json",
       	"Content-Type" : "application/json",
